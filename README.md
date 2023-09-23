@@ -84,14 +84,14 @@ git commit -m 'add call to action button to homepage'
 You have made all your changes and commit, now it's time to push your changes to GitHub. We will do this by running the `git push` command as we will see below
 
 ```sh
-git push origin -u <branch-name>
+git push -u origin <branch-name>
 ```
 
 Note that the branch above is the branch you created
 e.g
 
 ```sh
-git push origin -u branch-jakes
+git push -u origin branch-jakes
 ```
 
 ## Create a Pull Request
