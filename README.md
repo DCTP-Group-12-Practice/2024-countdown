@@ -96,7 +96,22 @@ git push -u origin branch-jakes
 
 ## Create a Pull Request
 
+Now you have successfully pushed your changes to your copy of the project. Go to github and open your forked copy of the project repository and click on the `compare & pull request button` as shown below:
 
+![Screenshot of GitHub repository with the link to compare and pull request highlighted](https://i.ibb.co/2F57N3R/pullrequest.png)
+
+
+Compare your changes, write a message to help the reviewer know the changes you have made and then click on the create pull request button as shown below
+
+![Screenshot of GitHub repository with the link to compare and pull request highlighted](https://i.ibb.co/CHTnMpZ/createpr.png)
+
+Tada! you are done, you have successfully submitted a pull request and it will be reviewed and merged to the main branch. You will get a notification via email when your changes have been merged.
+
+## Attribution
+
+-I got the idea on how to contribute/collaborate on a project from my team mate [Esther](https://github.com/Esther146)
+
+-I followed the README template on [This repository](https://github.com/Oluwasetemi/altschool-opensource-names) to create this README file
 
 
 
