@@ -3,7 +3,6 @@
 <a href="https://github.com/DCTP-Group-12-Practice/2024-countdown/stargazers"><img src="https://img.shields.io/github/stars/DCTP-Group-12-Practice/2024-countdown" alt="Stars Badge"/></a>
 <a href="https://github.com/DCTP-Group-12-Practice/2024-countdown/network/members"><img src="https://img.shields.io/github/forks/DCTP-Group-12-Practice/2024-countdown" alt="Forks Badge"/></a>
 <a href="https://github.com/DCTP-Group-12-Practice/2024-countdown/pulls"><img src="https://img.shields.io/github/issues-pr/DCTP-Group-12-Practice/2024-countdown" alt="Pull Requests Badge"/></a>
-
 <a href="https://github.com/DCTP-Group-12-Practice/2024-countdown/issues"><img src="https://img.shields.io/github/issues/DCTP-Group-12-Practice/2024-countdown" alt="Issues Badge"/></a>
 <a href="https://github.com/DCTP-Group-12-Practice/2024-countdown/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DCTP-Group-12-Practice/2024-countdown?color=2b9348"></a>
 
@@ -23,7 +22,7 @@ Go to your GitHub account and open your forked copy of this project repository, 
 
 ![Screenshot of GitHub repository with the link to fork highlighted](https://i.ibb.co/b7p0X16/clone.png)
 
-Now open your terminal and run  the `git clone` command like so:
+Now open your terminal and run the `git clone` command like so:
 
 ```sh
 git clone https://github.com/El-Jakes/2024-countdown.git
@@ -67,7 +66,7 @@ Run the `git status` command to see the changes that have been made and the file
 
 ![Screenshot of GitHub repository with the link to fork highlighted](https://i.ibb.co/r4WgvLd/git-Status.png)
 
-Run the  `git add` command to add your changes to the staging area like so
+Run the `git add` command to add your changes to the staging area like so
 
 ```sh
 git add index.html
@@ -100,7 +99,6 @@ Now you have successfully pushed your changes to your copy of the project. Go to
 
 ![Screenshot of GitHub repository with the link to compare and pull request highlighted](https://i.ibb.co/2F57N3R/pullrequest.png)
 
-
 Compare your changes, write a message to help the reviewer know the changes you have made and then click on the create pull request button as shown below
 
 ![Screenshot of GitHub repository with the link to compare and pull request highlighted](https://i.ibb.co/CHTnMpZ/createpr.png)
@@ -109,9 +107,6 @@ Tada! you are done, you have successfully submitted a pull request and it will b
 
 ## Attribution
 
--I got the idea on how to contribute/collaborate on a project from my team mate [Esther](https://github.com/Esther146)
+- I got the idea on how to contribute/collaborate on a project from my team mate [Esther](https://github.com/Esther146)
 
--I followed the README template on [This repository](https://github.com/Oluwasetemi/altschool-opensource-names) to create this README file
-
-
-
+- I followed the README template on [This repository](https://github.com/Oluwasetemi/altschool-opensource-names) to create this README file
